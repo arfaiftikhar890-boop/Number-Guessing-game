@@ -67,3 +67,8 @@ padding: 14px 29px;
 color: #431a43;
 
 }
+@media (min-width: 600px) {
+    button {
+        width: auto;
+    }
+}
