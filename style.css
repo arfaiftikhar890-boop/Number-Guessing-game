@@ -1,0 +1,69 @@
+h1{
+    color: #431a43;
+    position: relative;
+    top:40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #431a43;
+    color: aliceblue;
+text-align: center;
+}
+#check{
+background: #e3ff75;
+border-radius:6px;
+color: rgb(0, 0, 0);
+position: relative;
+top: 50px;
+left: 17px;
+padding: 11px 21px;
+color: #431a43;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+
+}
+#check:hover{
+    background: #efffb1;
+    border-color: rgb(127, 127, 127);
+}
+
+.container{
+    background-color: rgb(236, 246, 246);
+    border-radius: 20px;
+    position: relative;
+    top: 120px;
+    padding-bottom: 160px;
+    max-width: 700px;
+    margin-left: 250px;
+
+}
+#guess{
+    color: rgb(0, 0, 0);
+     position: relative;
+    top:40px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+input{
+    width: 20%;
+    position: relative;
+    top: 50px;
+    max-width:400px;
+    padding: 10px;
+}
+#result{
+    position: relative;
+    top:60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+#restart{
+    position: relative;
+    background: #ffb01e;
+    border-radius:10px;
+    color: rgb(0, 0, 0);
+    top: 80px;
+left: 280px;
+padding: 14px 29px;
+color: #431a43;
+
+}
